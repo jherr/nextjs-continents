@@ -8,8 +8,14 @@
     "start": "next start"
   },
   "dependencies": {
+    "@material-ui/core": "^4.9.8",
+    "@material-ui/icons": "^4.9.1",
+    "graphql": "^14.6.0",
+    "graphql-tag": "^2.10.3",
     "next": "9.3.2",
+    "node-fetch": "^2.6.0",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "urql": "^1.9.5"
   }
 }
